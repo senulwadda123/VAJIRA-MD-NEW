@@ -11,7 +11,7 @@ const FOOTERNAME = '> SENUL RADAWA';
 global.owner = process.env.OWNER_NUMBER  || '94774179596' ;  // ADD YOUR NUMBER WITHOUT +
     
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=eFlHkaqT#L_ZDyxbzX1b8Tkwfw-uDVI1W-IRR3nnHk9slWy-kNu0' ,
+SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=PAc2VBbC#sjYOajM1rGjEjZgoW169Mwjapv8zImMTDrF-ZkO27FU' ,
 travaSend: process.env.TRAVA_SEND || '25' ,   
 MODERATORS : process.env.MODERATORS === undefined ? "94772801923,94787820101" : process.env.MODERATORS ,    
 MAX_SIZE: process.env.MAX_SIZE === undefined ? '1536': process.env.MAX_SIZE,/*add this in megabytes*/    
